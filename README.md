@@ -1,1 +1,1 @@
-# card-validator-tool
+Install Python 3 and run `python3 card_checker.py# card-validator-tool
